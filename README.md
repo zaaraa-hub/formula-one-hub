@@ -40,6 +40,7 @@ formula1-fan-website/
 
 1. Download or clone this repository.
 2. Open `index.html` in any modern web browser.
+3. Or open through the link https://zaaraa-hub.github.io/formula-one-hub/
 
 ## 📚 Concepts Practiced
 
