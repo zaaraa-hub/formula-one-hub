@@ -20,6 +20,7 @@ This project was developed as my Semester 2 web development project. It showcase
 
 - HTML5
 - CSS3
+- GitHub Pages (Deployment)
 
 ## 📂 Project Structure
 
@@ -36,11 +37,9 @@ formula1-fan-website/
 └── images/
 ```
 
-## 🚀 How to Run
+## 🌐 Live Demo
 
-1. Download or clone this repository.
-2. Open `index.html` in any modern web browser.
-3. Or open through the link https://zaaraa-hub.github.io/formula-one-hub/
+https://zaaraa-hub.github.io/formula-one-hub/
 
 ## 📚 Concepts Practiced
 
