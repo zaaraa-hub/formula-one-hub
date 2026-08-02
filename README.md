@@ -61,4 +61,10 @@ https://zaaraa-hub.github.io/formula-one-hub/
 
 ## 👩‍💻 Author
 
-**Zaara Mulani**
+Zaara Mulani
+
+GitHub:
+https://github.com/zaaraa-hub
+
+LinkedIn:
+https://www.linkedin.com/in/zaara-mulani/
