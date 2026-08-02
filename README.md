@@ -2,6 +2,10 @@
 
 A multi-page Formula 1 fan website built using HTML and CSS.
 
+## 🌐 Live Demo
+
+https://zaaraa-hub.github.io/formula-one-hub/
+
 ## 📖 About
 
 Formula One Hub is a responsive multi-page website developed using HTML and CSS. The website serves as a central hub for Formula 1 enthusiasts, featuring information about teams, cars, circuits, the history of the sport, and more through a clean and intuitive user interface.
@@ -36,10 +40,6 @@ formula1-fan-website/
 ├── css/
 └── images/
 ```
-
-## 🌐 Live Demo
-
-https://zaaraa-hub.github.io/formula-one-hub/
 
 ## 📚 Concepts Practiced
 
