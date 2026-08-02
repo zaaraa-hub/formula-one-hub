@@ -4,7 +4,7 @@ A multi-page Formula 1 fan website built using HTML and CSS.
 
 ## 📖 About
 
-This project was developed as my Semester 2 web development project. It showcases information about Formula 1, including teams, cars, circuits, history, and contact details through a clean and responsive multi-page website.
+Formula One Hub is a responsive multi-page website developed using HTML and CSS. The website serves as a central hub for Formula 1 enthusiasts, featuring information about teams, cars, circuits, the history of the sport, and more through a clean and intuitive user interface.
 
 ## ✨ Features
 
